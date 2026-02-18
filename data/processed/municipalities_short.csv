@@ -1,0 +1,6 @@
+id,mun_key,mun_name,mun_name_short,mun_zip,mun_pop_cen22,mun_pop_cen22m,mun_pop_cen22f,mun_dens_cen22,mun_sizekm2,state,lat,lon,geo
+1,110000000000,"Berlin, Stadt",NA,10178,3685265,1810259,1875006,4136,891.12,NA,NA,NA,NA
+2,020000000000,"Hamburg, Freie und Hansestadt",NA,20038,1862565,911888,950677,2467,755.09,NA,NA,NA,NA
+3,091620000000,"München, Landeshauptstadt",NA,80313,1505005,737442,767563,4844,310.7,NA,NA,NA,NA
+4,053150000000,"Köln, Stadt",NA,50667,1024621,498050,526571,2530,405.02,NA,NA,NA,NA
+5,064120000000,"Frankfurt am Main, Stadt",NA,60311,756021,371235,384786,3045,248.31,NA,NA,NA,NA
