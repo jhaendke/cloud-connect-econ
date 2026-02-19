@@ -10,6 +10,8 @@
 
 ![Atlas Probes in Bayern](probes_bayern_map.png)
 
+Repo: [https://github.com/jhaendke/cloud-connect-econ](https://github.com/jhaendke/cloud-connect-econ)
+
 ---
 
 2026 | Jannis Haendke
