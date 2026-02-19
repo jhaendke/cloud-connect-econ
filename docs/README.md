@@ -8,6 +8,8 @@
 
 > [03_statdata.ipynb](https://jhaendke.github.io/cloud-connect-econ/03_statdata.html)
 
+> [Bibliography (extended)](https://jhaendke.github.io/cloud-connect-econ/bib.html)
+
 ![Atlas Probes in Bayern](probes_bayern_map.png)
 
 Repo: [https://github.com/jhaendke/cloud-connect-econ](https://github.com/jhaendke/cloud-connect-econ)

@@ -7,6 +7,8 @@
 
 > [03_statdata.ipynb](https://github.com/jhaendke/cloud-connect-econ/blob/main/notebooks/03_statdata.ipynb)
 
+> [Bibliography (extended)](https://github.com/jhaendke/cloud-connect-econ/blob/main/data/bib/bib.html)
+
 ![Bavaria Probes Map](data/processed/probes_bayern_map.png)
 
 HTML: [https://jhaendke.github.io/cloud-connect-econ/index.html](https://jhaendke.github.io/cloud-connect-econ/index.html)
