@@ -1,5 +1,5 @@
 ## Cloud Connectivity Economics
-###### The impact of spatial distribution of data centers on internet users 
+##### The impact of spatial distribution of data centers on internet users 
 
 
 > [01b_collect_sample.ipynb](https://jhaendke.github.io/cloud-connect-econ/01b_collect_sample.html)
